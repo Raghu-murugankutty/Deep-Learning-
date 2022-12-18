@@ -3,7 +3,7 @@ This repo contains deep learning projects
 
 <hr>
 
- - ## Training Generative Adversarial Networks (GANs) | PyTorch | Generative Modeling ([<img src="https://img.icons8.com/fluency/48/000000/code.png"/>](https://jovian.ai/raghu-rayirath/walmart-store-sales-forecasting-v4)):
+ - ## Training Generative Adversarial Networks (GANs) | PyTorch | Generative Modeling ([<img src="https://img.icons8.com/fluency/48/000000/code.png"/>](https://nbviewer.org/github/Raghu-murugankutty/Deep-Learning-/blob/main/Training%20Generative%20Adversarial%20Networks%20%28GANs%29%20in%20PyTorch.ipynb)):
     - `Problem Statement`: The dataset contains over 63,000 cropped anime faces, we are generating fake images from the existing real images using generative adversarial networks (GANs).
     - `Dataset`: Anime Face Dataset, which consists of over 63,000 cropped anime faces.
     - `Discriminator Network:`
