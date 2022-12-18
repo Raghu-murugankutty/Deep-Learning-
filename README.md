@@ -44,7 +44,7 @@ To achive this,I used the ConvTranspose2d layer from PyTorch, which is performs 
     - Using ResNet architecture, I achieved the `accuracy of 90.45%`.
 <hr>
 
- - ## Image Classification using Convolutional Neural Networks (CNN) in PyTorch ([<img src="https://img.icons8.com/fluency/48/000000/code.png"/>](https://nbviewer.org/github/Raghu-murugankutty/Deep-Learning-/blob/main/Training%20Generative%20Adversarial%20Networks%20%28GANs%29%20in%20PyTorch.ipynb)):
+ - ## Image Classification using Convolutional Neural Networks (CNN) in PyTorch ([<img src="https://img.icons8.com/fluency/48/000000/code.png"/>](https://github.com/Raghu-murugankutty/Deep-Learning-/blob/main/Image_Classification_using_Convolutional_Neural_Networks_in_PyTorch%20v2.ipynb)):
     - `Problem Statement`: The dataset contains over 60,000 images belonging to 10 classes,Image Classification using Convolutional Neural Networks using PyTorch.
     - `Dataset`:  Dataset contains 2 folders train and test,The training set contains (50000 images) and test set (10000 images) respectively. The images belonging to 10 classes. 
     - `Sample Image Grid:`
