@@ -27,7 +27,7 @@ To achive this,I used the ConvTranspose2d layer from PyTorch, which is performs 
 
 <hr>
 
- - ## Image classification using ResNets, Regularization and Data Augmentation in PyTorch ([<img src="https://img.icons8.com/fluency/48/000000/code.png"/>](https://nbviewer.org/github/Raghu-murugankutty/Deep-Learning-/blob/main/Image%20classification%20using%20ResNets%2C%20Regularization%20and%20Data%20Augmentation%20in%20PyTorch.ipynb)):
+ - ## Image classification using ResNets | Regularization | Data Augmentation in PyTorch ([<img src="https://img.icons8.com/fluency/48/000000/code.png"/>](https://nbviewer.org/github/Raghu-murugankutty/Deep-Learning-/blob/main/Image%20classification%20using%20ResNets%2C%20Regularization%20and%20Data%20Augmentation%20in%20PyTorch.ipynb)):
     - `Problem Statement`: The dataset contains over 60,000 images belonging to 10 classes,Image classification using ResNets.
     - `Dataset`: The dataset contains over 60,000 images belonging to 10 classes. 
     - `Residual Block:`
