@@ -38,6 +38,8 @@ To achive this,I used the ConvTranspose2d layer from PyTorch, which is performs 
     - <img width="510" alt="image" src="https://user-images.githubusercontent.com/41443395/208294535-b3faebb9-45d1-4ebe-8528-2433ba5019a3.png">
     - `Built Feed Forward neural network(ANN)` and achievied an accurcy of 48%.
     - `Built Convolutional Neural Network(CNN)` and improved the accuracy till 75%.
+    - <img width="230" alt="image" src="https://user-images.githubusercontent.com/41443395/208294842-4c51b6c7-449d-4b1c-b207-0f9e16bc370a.png">
+    - <img width="230" alt="image" src="https://user-images.githubusercontent.com/41443395/208294862-fb4e64c1-eda1-4691-be46-74e3acd5cffa.png">
     - Applied technique like `Data normalization`, `Data augmentation`, `Batch normalization`, `Learning rate scheduling`, `Weight Decay`, `Gradient clipping`...etc
     - Using ResNet architecture, I achieved the `accuracy of 90.45%`.
 <hr>
