@@ -18,8 +18,8 @@ To achive this,I used the ConvTranspose2d layer from PyTorch, which is performs 
     - `Activation Function:` The ReLU activation is used in the generator with the exception of the output layer which uses the Tanh function.
     - I have to build a GAN with CNN architecture using PyTorch to achieve `accuracy of ~93.5%`.
     - `Real Images:`
-    <img width="331" alt="image" src="https://user-images.githubusercontent.com/41443395/208290297-45c481cf-1170-4152-8e55-c9e8f496abe7.png">
+    - <img width="331" alt="image" src="https://user-images.githubusercontent.com/41443395/208290297-45c481cf-1170-4152-8e55-c9e8f496abe7.png">
     - `Fake generated images using (GAN):`
-    <img width="398" alt="image" src="https://user-images.githubusercontent.com/41443395/208290368-7e9e558c-4c7d-4e49-8b3c-ffb2f81290d6.png">
+    - <img width="323" alt="image" src="https://user-images.githubusercontent.com/41443395/208290414-89ad07c8-2937-482c-a7b6-de8b92d4bd1a.png">
 
 <hr>
