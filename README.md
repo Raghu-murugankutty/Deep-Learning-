@@ -26,3 +26,19 @@ To achive this,I used the ConvTranspose2d layer from PyTorch, which is performs 
     - <img width="464" alt="image" src="https://user-images.githubusercontent.com/41443395/208290414-89ad07c8-2937-482c-a7b6-de8b92d4bd1a.png">
 
 <hr>
+
+ - ## Image classification using ResNets, Regularization and Data Augmentation in PyTorch ([<img src="https://img.icons8.com/fluency/48/000000/code.png"/>](https://nbviewer.org/github/Raghu-murugankutty/Deep-Learning-/blob/main/Training%20Generative%20Adversarial%20Networks%20%28GANs%29%20in%20PyTorch.ipynb)):
+    - `Problem Statement`: The dataset contains over 60,000 images belonging to 10 classes,Image classification using ResNets.
+    - `Dataset`: The dataset contains over 60,000 images belonging to 10 classes. 
+    - `Residual Block:`
+    - <img width="510" alt="image" src="https://user-images.githubusercontent.com/41443395/208294435-d610a010-18ee-46ba-ab05-71d674b7f625.png">
+    - `Convolution Block with ResNet9:`
+    - <img width="510" alt="image" src="https://user-images.githubusercontent.com/41443395/208294492-bc60c300-2986-4262-bba5-b4796fa13712.png">
+    - `One Cycle Learning Rate Policy:`
+    - <img width="510" alt="image" src="https://user-images.githubusercontent.com/41443395/208294535-b3faebb9-45d1-4ebe-8528-2433ba5019a3.png">
+    - Built Feed Forward neural network(ANN) and achievied an accurcy of 48%.
+    - Built Convolutional Neural Network(CNN) and improved the accuracy till 75%.
+    - Applied technique like Data normalization, Data augmentation, Batch normalization, Learning rate scheduling, Weight Decay, Gradient clipping...etc
+    - Using ResNet architecture, I achieved the accuracy of 90.45% 
+<hr>
+
