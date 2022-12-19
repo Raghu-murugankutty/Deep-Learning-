@@ -51,9 +51,13 @@ Performing image classification using tranfser learning models.
     - `Sample Images from Oxford-IIIT Pets dataset:`
     - <img width="438" alt="image" src="https://user-images.githubusercontent.com/41443395/208370719-f082c2e4-f319-4884-a42f-2312b8798e3f.png">
     - `Using Pre-trained weights:`
+    
     <img width="530" alt="image" src="https://user-images.githubusercontent.com/41443395/208370341-e1731788-74d3-4f8d-a8af-084fc8f3a0f5.png">
+    
     - `Parameter:`
+    
     - <img width="405" alt="image" src="https://user-images.githubusercontent.com/41443395/208370924-f70659a6-2990-440c-a3f7-42c42f13e84b.png">
+    
     - Using pre-trained transfer learning model weights, I achieved the `accuracy of 80.01%`.(with minimal epochs)
  <hr>
 
