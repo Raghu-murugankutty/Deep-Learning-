@@ -44,7 +44,7 @@ To achive this,I used the ConvTranspose2d layer from PyTorch, which is performs 
     - Using ResNet architecture, I achieved the `accuracy of 90.45%`.
 <hr>
 
- - ## Transfer Learning for Image Classification | ResNets |  PyTorch ([<img src="https://img.icons8.com/fluency/48/000000/code.png"/>](https://nbviewer.org/github/Raghu-murugankutty/Deep-Learning-/blob/main/Image%20classification%20using%20ResNets%2C%20Regularization%20and%20Data%20Augmentation%20in%20PyTorch.ipynb)):
+ - ## Transfer Learning for Image Classification | ResNets |  PyTorch ([<img src="https://img.icons8.com/fluency/48/000000/code.png"/>](https://github.com/Raghu-murugankutty/Deep-Learning-/blob/main/Transfer%20Learning%20for%20Image%20Classification%20PyTorch.ipynb)):
     - `Problem Statement`: The dataset contains 37 category (breeds) pet dataset with roughly 200 images for each class, 
 Performing image classification using tranfser learning models.
     - `Dataset`: We'll use the Oxford-IIIT Pets dataset from "https://course.fast.ai/datasets". It is 37 category (breeds) pet dataset with roughly 200 images for each class. The images have a large variations in scale, pose and lighting.
