@@ -55,6 +55,7 @@ Performing image classification using tranfser learning models.
     - `Parameter:`
     - <img width="405" alt="image" src="https://user-images.githubusercontent.com/41443395/208370924-f70659a6-2990-440c-a3f7-42c42f13e84b.png">
     - Using pre-trained transfer learning model weights, I achieved the `accuracy of 80.01%`.(with minimal epochs)
+    
  <hr>
 
  - ## Image Classification using Convolutional Neural Networks (CNN) in PyTorch ([<img src="https://img.icons8.com/fluency/48/000000/code.png"/>](https://github.com/Raghu-murugankutty/Deep-Learning-/blob/main/Image_Classification_using_Convolutional_Neural_Networks_in_PyTorch%20v2.ipynb)):
