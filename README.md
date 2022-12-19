@@ -44,6 +44,19 @@ To achive this,I used the ConvTranspose2d layer from PyTorch, which is performs 
     - Using ResNet architecture, I achieved the `accuracy of 90.45%`.
 <hr>
 
+ - ## Transfer Learning for Image Classification | ResNets |  PyTorch ([<img src="https://img.icons8.com/fluency/48/000000/code.png"/>](https://nbviewer.org/github/Raghu-murugankutty/Deep-Learning-/blob/main/Image%20classification%20using%20ResNets%2C%20Regularization%20and%20Data%20Augmentation%20in%20PyTorch.ipynb)):
+    - `Problem Statement`: The dataset contains 37 category (breeds) pet dataset with roughly 200 images for each class, 
+Performing image classification using tranfser learning models.
+    - `Dataset`: We'll use the Oxford-IIIT Pets dataset from "https://course.fast.ai/datasets". It is 37 category (breeds) pet dataset with roughly 200 images for each class. The images have a large variations in scale, pose and lighting.
+    - `Sample Images from Oxford-IIIT Pets dataset:`
+    - <img width="438" alt="image" src="https://user-images.githubusercontent.com/41443395/208370719-f082c2e4-f319-4884-a42f-2312b8798e3f.png">
+    - `Using Pre-trained weights:`
+    <img width="530" alt="image" src="https://user-images.githubusercontent.com/41443395/208370341-e1731788-74d3-4f8d-a8af-084fc8f3a0f5.png">
+    - `Parameter:`
+    - <img width="405" alt="image" src="https://user-images.githubusercontent.com/41443395/208370924-f70659a6-2990-440c-a3f7-42c42f13e84b.png">
+    - Using pre-trained transfer learning model weights, I achieved the `accuracy of 80.01%`.(with minimal epochs)
+ <hr>
+
  - ## Image Classification using Convolutional Neural Networks (CNN) in PyTorch ([<img src="https://img.icons8.com/fluency/48/000000/code.png"/>](https://github.com/Raghu-murugankutty/Deep-Learning-/blob/main/Image_Classification_using_Convolutional_Neural_Networks_in_PyTorch%20v2.ipynb)):
     - `Problem Statement`: The dataset contains over 60,000 images belonging to 10 classes,Image Classification using Convolutional Neural Networks using PyTorch.
     - `Dataset`:  Dataset contains 2 folders train and test,The training set contains (50000 images) and test set (10000 images) respectively. The images belonging to 10 classes. 
