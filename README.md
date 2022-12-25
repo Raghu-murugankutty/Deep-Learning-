@@ -93,6 +93,8 @@ Performing image classification using tranfser learning models.
     - <img width="260" alt="image" src="https://user-images.githubusercontent.com/41443395/209466754-5820384d-691b-4808-b918-e09acd0bf51d.png">
     - `Model achieved the validation accuracy of 99%`.
 
+<hr>
+
 
 
 
