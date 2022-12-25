@@ -86,6 +86,10 @@ Performing image classification using tranfser learning models.
     - The model is trained and evaluated on GPU using PyTorch built-in `CUDA library`.
     - <img width="580" alt="image" src="https://user-images.githubusercontent.com/41443395/209466663-b5d2c208-edb4-41a8-862b-5b9dcf1a8828.png">
     - <img width="580" alt="image" src="https://user-images.githubusercontent.com/41443395/209466675-855b715e-1e41-43de-8419-175f30353f06.png">
+    - `Learning rate with batch no`
+    - <img width="260" alt="image" src="https://user-images.githubusercontent.com/41443395/209466754-5820384d-691b-4808-b918-e09acd0bf51d.png">
+    - `Model achieved the validation accuracy of 99%`.
+
 
 
 
