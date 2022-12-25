@@ -76,3 +76,17 @@ Performing image classification using tranfser learning models.
 <hr>
 
 
+ - ## Regularization of CNN models | Image classification model | PyTorch ([<img src="https://img.icons8.com/fluency/48/000000/code.png"/>](https://github.com/Raghu-murugankutty/Deep-Learning-/blob/main/Image_Classification_using_Convolutional_Neural_Networks_in_PyTorch%20v2.ipynb)):
+    - `Problem Statement`: The dataset contains over 90483 images of fruits or vegitables, we are using CNN to build a classifcation model to predict the class of fruit from a set of 131 classes using PyTorch.
+    - `Dataset`:  The daaset contains 90483 images of fruits or vegitables. 
+    `Training set size`: 67692 images (one fruit or vegetable per image).
+    `Test set size`: 22688 images (one fruit or vegetable per image).
+    `Number of classes`: 131 (fruits and vegetables). Image size: 100x100 pixels.
+    - Model is built on PyTorch along with the implementation of techniques like `Data augmentation`, `Batch normalization`, `learning rate schedule`, `Weight Decay`, `Gradient clipping`, `adam optimizer`, `layer dropouts`, `Minmax pooling` to achieve the best results.
+    - The model is trained and evaluated on GPU using PyTorch built-in `CUDA library`.
+    - <img width="580" alt="image" src="https://user-images.githubusercontent.com/41443395/209466663-b5d2c208-edb4-41a8-862b-5b9dcf1a8828.png">
+    - <img width="580" alt="image" src="https://user-images.githubusercontent.com/41443395/209466675-855b715e-1e41-43de-8419-175f30353f06.png">
+
+
+
+
