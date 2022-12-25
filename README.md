@@ -82,6 +82,9 @@ Performing image classification using tranfser learning models.
     `Training set size`: 67692 images (one fruit or vegetable per image).
     `Test set size`: 22688 images (one fruit or vegetable per image).
     `Number of classes`: 131 (fruits and vegetables). Image size: 100x100 pixels.
+    - `Images`:
+    - <img width="503" alt="image" src="https://user-images.githubusercontent.com/41443395/209466991-420b6c77-d7dd-49c1-afbe-c6dc810237a8.png">
+
     - Model is built on PyTorch along with the implementation of techniques like `Data augmentation`, `Batch normalization`, `learning rate schedule`, `Weight Decay`, `Gradient clipping`, `adam optimizer`, `layer dropouts`, `Minmax pooling` to achieve the best results.
     - The model is trained and evaluated on GPU using PyTorch built-in `CUDA library`.
     - <img width="580" alt="image" src="https://user-images.githubusercontent.com/41443395/209466663-b5d2c208-edb4-41a8-862b-5b9dcf1a8828.png">
